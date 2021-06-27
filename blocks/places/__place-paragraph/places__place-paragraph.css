@@ -4,3 +4,9 @@
   line-height: 163%;
   margin: 0;
 }
+
+@media screen and (max-width: 768px) {
+  .places__place-paragraph {
+    font-size: 16px;
+  }
+ }
