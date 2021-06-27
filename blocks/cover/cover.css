@@ -6,4 +6,12 @@
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
+  padding: 0 48px;
+}
+
+@media screen and (max-width: 1024px)  {
+  .cover {
+    padding: 0;
+    height: 640px;
+  }
 }
