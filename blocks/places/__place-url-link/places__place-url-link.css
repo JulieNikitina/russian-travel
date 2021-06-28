@@ -9,3 +9,9 @@
 .places__place-url-link:hover {
   opacity: 0.8;
 }
+
+@media screen and (max-width: 425px)  {
+  .places__place-url-link {
+    margin-left: 16px;
+  }
+}

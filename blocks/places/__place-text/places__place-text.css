@@ -4,3 +4,10 @@
   align-items: flex-start;
   gap: 26px;
 }
+
+@media screen and (max-width: 425px)  {
+  .places__place-text {
+    margin-left: 16px;
+    max-width: 280px;
+  }
+}

@@ -21,3 +21,10 @@
     height: 480px;
   }
 }
+
+@media screen and (max-width: 425px)  {
+  .cover {
+    height: 200px;
+    margin-top: 66px;
+  }
+}

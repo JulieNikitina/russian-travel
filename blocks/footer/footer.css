@@ -12,3 +12,12 @@
     padding: 0 24px;
   }
 }
+
+@media screen and (max-width: 425px)  {
+  .footer {
+    flex-direction: column;
+    margin-top: 64px;
+    padding: 0 16px;
+    min-height: 310px;
+  }
+}
