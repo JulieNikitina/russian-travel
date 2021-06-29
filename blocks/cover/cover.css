@@ -22,7 +22,14 @@
   }
 }
 
-@media screen and (max-width: 425px)  {
+@media screen and (max-width: 650px)  {
+  .cover {
+    height: 400px;
+  }
+}
+
+
+@media screen and (max-width: 450px)  {
   .cover {
     height: 200px;
     margin-top: 66px;
