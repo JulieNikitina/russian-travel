@@ -2,4 +2,11 @@
   list-style-type: none;
   text-decoration: none;
   color: #FFF;
+  transition: opacity 0.2s ease-out;
 }
+
+.footer__link:hover {
+  opacity: 0.8;
+}
+
+

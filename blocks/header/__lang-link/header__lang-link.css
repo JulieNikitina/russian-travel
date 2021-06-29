@@ -4,8 +4,12 @@
   color: #FFF;
   text-decoration: none;
   list-style-type: none;
+  transition: opacity 0.2s ease-out;
 }
 
+.header__lang-link:hover {
+  opacity: 0.8;
+}
 @media screen and (max-width: 450px) {
   .header__lang-link {
     font-size: 18px;
