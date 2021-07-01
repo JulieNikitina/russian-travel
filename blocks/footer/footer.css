@@ -3,6 +3,7 @@
   margin: 92px auto 24px auto;
   height: auto;
   justify-content: space-between;
+  align-items: center;
   padding: 0 48px;
   max-width: 1184px;
 }
